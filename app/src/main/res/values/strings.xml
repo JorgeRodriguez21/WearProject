@@ -235,7 +235,7 @@
     <string name="gcm_defaultSenderId" translatable="false"></string>
     <!-- For Google Places API Attributions -->
     <string name="attribution_text">Powered by Google</string>
-    <string name="OPEN_WEATHER_MAP_API_KEY">a6b421cd2fc66712c60d27f4d3bb8c6b</string>
+    <string name="OPEN_WEATHER_MAP_API_KEY"></string>
 
 
 </resources>
